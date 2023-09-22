@@ -1,0 +1,10 @@
+{
+    "name": "compulife/hello-world",
+    "autoload": {
+        "psr-4": {
+            "HelloWorld\\": "src/"
+        }
+    },
+    "require": {}
+}
+
